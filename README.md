@@ -1,5 +1,7 @@
 # Svelte Practice
 
+[개발자 소개 · 전체 프로젝트](https://github.com/nakk3975/TripPlan/blob/main/PORTFOLIO.md)
+
 > 프런트엔드 학습 · Svelte 기초
 
 Svelte의 기본 컴포넌트 구조와 개발 환경을 익히기 위해 만든 기초 실습 프로젝트입니다.
